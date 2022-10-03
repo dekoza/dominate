@@ -580,4 +580,3 @@ print(circle(stroke_width=5))
 ```html
 <circle stroke-width="5"></circle>
 ```
-
